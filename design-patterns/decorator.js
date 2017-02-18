@@ -101,7 +101,7 @@ Sale.prototype.getPrice = function () {
 };
 
 
-//and each decorator can be implemeented simply
+//and each decorator can be implemented simply
 Sale.decorators = {}
 
 Sale.decorators.HotChocolate = {
